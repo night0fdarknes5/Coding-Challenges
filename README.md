@@ -1,2 +1,2 @@
-# Challenge-1
-Coding Challenge 1
+# Coding Challenges for Learning OOP
+Coding Challenge 1 - basic calculator in C#
